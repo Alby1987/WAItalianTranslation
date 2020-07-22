@@ -6,11 +6,11 @@ Benvenuti in queso progetti per la traduzione di Worms Armageddon.
 Se trovate anche un punto o una virgola fuoriposto, o vogliate semplicemente farmi qualche domanda, vi aspetto nell'apposito topic del TUS forum, all'indirizzo
 https://www.tus-wa.com/forums/worms-armageddon/worms-armageddon-3-8-italian-translation-32821/
 
-### V.1.1 per 3.8.0.0
+### V.1.1 per 3.8
 
 Con questo file, posizionabile in DATA\User\Languages\3.8.0.0, potrete godere di Worms Armageddon con una traduzione corretta e ampliata.
 
-Per la 3.8.0.0, nuove traduzioni e rivisitazioni:
+Per la 3.8, nuove traduzioni e rivisitazioni:
 
 * Mi era sempre sfuggito "Vista laser"... "sight" è mirino, quindi Laser Sight diventa Mirino laser.
 * Operazione: Market Garden. Il titolo della missione originale della Seconda Guerra Mondiale non è mai stata tradotta in italiano, penso che sia giusto rimettere il suo nome in lingua originale.
