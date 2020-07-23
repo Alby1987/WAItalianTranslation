@@ -8,7 +8,7 @@ https://www.tus-wa.com/forums/worms-armageddon/worms-armageddon-3-8-italian-tran
 
 ### V.1.1 per 3.8
 
-Con questo file, posizionabile in DATA\User\Languages\3.8.0.0, potrete godere di Worms Armageddon con una traduzione corretta e ampliata.
+Con questo file, posizionabile in DATA\User\Languages\3.8, potrete godere di Worms Armageddon con una traduzione corretta e ampliata.
 
 Per la 3.8, nuove traduzioni e rivisitazioni:
 
