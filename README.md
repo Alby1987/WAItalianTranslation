@@ -74,4 +74,6 @@ Sperando di aver fatto cosa a voi gradita, se trovate errori, aprite delle issue
 
 Happy Worming!
 
+* Un ringrazimento a rUNaW4y per la revisione della traduzione!
+
 Alby87
